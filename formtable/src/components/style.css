@@ -1,0 +1,46 @@
+.table-container {
+    text-align: center;
+  }
+  
+  table {
+    margin: auto;
+  }
+  table, th, td {
+    border:1px solid black;
+    padding:10px;
+   
+  }
+  .Title{
+    justify-content: center;
+    align-items: center;
+    padding:1em;
+    margin-bottom: 1em; 
+    /* background-color:whitesmoke; */
+    color:black;
+    text-align: center;
+    line-height: 10px;
+  }
+  .Title h2:nth-of-type(2) {
+    line-height: 1.2;
+  }
+  .table-responsive {
+    overflow-y: visible !important;
+  }
+  h1, h2 {
+    margin-bottom: 0.5em;
+  }
+  .dept{
+    align-items: center;
+  }
+  p.title{
+    line-height: 0.7;
+    font-weight: bold;
+  }
+  .right{
+    float:right;
+  }
+  
+  .left{
+    float:left;
+  }
+  
